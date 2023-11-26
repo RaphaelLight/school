@@ -1,0 +1,12 @@
+C:\Users\Raphael Light\source\repos\SlotMachine\x64\Debug\SlotMachine.vcxproj.AssemblyReference.cache
+C:\Users\Raphael Light\source\repos\SlotMachine\x64\Debug\SlotMachine.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Raphael Light\source\repos\SlotMachine\x64\Debug\SlotMachine.EntryMoney.resources
+C:\Users\Raphael Light\source\repos\SlotMachine\x64\Debug\SlotMachine.Slot_Machine.resources
+C:\Users\Raphael Light\source\repos\SlotMachine\x64\Debug\SlotMachine.vcxproj.GenerateResource.cache
+C:\Users\Raphael Light\source\repos\SlotMachine\x64\Debug\SlotMachine.exe
+C:\Users\Raphael Light\Documents\MAPUA CLASS DOCUMENTS\CPE103L\Project_SlotMachine\Slot Machine-Finished Code\SlotMachine\x64\Debug\SlotMachine.vcxproj.AssemblyReference.cache
+C:\Users\Raphael Light\Documents\MAPUA CLASS DOCUMENTS\CPE103L\Project_SlotMachine\Slot Machine-Finished Code\SlotMachine\x64\Debug\SlotMachine.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Raphael Light\Documents\MAPUA CLASS DOCUMENTS\CPE103L\Project_SlotMachine\Slot Machine-Finished Code\SlotMachine\x64\Debug\SlotMachine.EntryMoney.resources
+C:\Users\Raphael Light\Documents\MAPUA CLASS DOCUMENTS\CPE103L\Project_SlotMachine\Slot Machine-Finished Code\SlotMachine\x64\Debug\SlotMachine.Slot_Machine.resources
+C:\Users\Raphael Light\Documents\MAPUA CLASS DOCUMENTS\CPE103L\Project_SlotMachine\Slot Machine-Finished Code\SlotMachine\x64\Debug\SlotMachine.vcxproj.GenerateResource.cache
+C:\Users\Raphael Light\Documents\MAPUA CLASS DOCUMENTS\CPE103L\Project_SlotMachine\Slot Machine-Finished Code\SlotMachine\x64\Debug\SlotMachine.exe

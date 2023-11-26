@@ -1,0 +1,11 @@
+﻿  EntryMoney.cpp
+C:\Users\Raphael Light\Documents\MAPUA CLASS DOCUMENTS\CPE103L\Project_SlotMachine\Slot Machine-Finished Code\SlotMachine\Slot_Machine.h(586,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Raphael Light\Documents\MAPUA CLASS DOCUMENTS\CPE103L\Project_SlotMachine\Slot Machine-Finished Code\SlotMachine\Slot_Machine.h(693,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Raphael Light\Documents\MAPUA CLASS DOCUMENTS\CPE103L\Project_SlotMachine\Slot Machine-Finished Code\SlotMachine\EntryMoney.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Slot_Machine.cpp
+C:\Users\Raphael Light\Documents\MAPUA CLASS DOCUMENTS\CPE103L\Project_SlotMachine\Slot Machine-Finished Code\SlotMachine\Slot_Machine.h(586,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Raphael Light\Documents\MAPUA CLASS DOCUMENTS\CPE103L\Project_SlotMachine\Slot Machine-Finished Code\SlotMachine\Slot_Machine.h(693,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
+  EntryMoney.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SlotMachine.vcxproj -> C:\Users\Raphael Light\Documents\MAPUA CLASS DOCUMENTS\CPE103L\Project_SlotMachine\Slot Machine-Finished Code\SlotMachine\x64\Debug\SlotMachine.exe
